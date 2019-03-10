@@ -99,6 +99,7 @@ public class AppDashboard extends Base {
 		dismiss= wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("button1")));
 		dismiss.click();
 		driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
+	//	driver.findElement(By.xpath("//android.widget.TextView[@text='Assets']")).click();
 		touchAction.tap(new PointOption().withCoordinates(266, 532)).perform();				
 		accntselectMethod("Assets");
 		addcashwalletbtn.click();
