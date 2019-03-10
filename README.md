@@ -1,5 +1,13 @@
 # ShrayDwivediTestChallenge
 
+
+Task 1: 
+
+Test Suite is present in TestSuite.xlsx File.
+
+Task 2:
+Task for Automation where all the test case idea, prioritization,pro-con of automated test cases summary is present in Task_Automation.docx
+
 Prerequisites – SYSTEM SETUP
 
 Appium: v1.8 or above, if not installed then you can install it from below mentioned URL:https://bitbucket.org/appium/appium.app/downloads/
