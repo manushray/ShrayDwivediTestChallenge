@@ -38,7 +38,7 @@ Please change the below mentioned parameter to run the script:
 2.	App_Path (you have to give your GnucashAndroid_v2.4.0.apk file installed path that would be) "your file location of /Andriod/sdk/platform-tools/ GnucashAndroid_v2.4.0.apk" mine was "/Users/sdwivedi/Library/Android/sdk/platform-tools/GnucashAndroid_v2.4.0.apk"
 
 You have to make 2 changes and run the code either by command line or from Eclipse itself:
-BUT MAKE SURE YOUR APPIUM & EMULATOR SHOULD UP & RUNNING
+BUT MAKE SURE YOUR APPIUM & EMULATOR SHOULD BE UP & RUNNING
 
 #Command Line Command:
 •	go to the project folder and run the below command: 
