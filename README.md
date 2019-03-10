@@ -49,10 +49,12 @@ You have to make 2 changes and run the code either by command line or from Eclip
 BUT MAKE SURE YOUR APPIUM & EMULATOR SHOULD BE UP & RUNNING
 
 #Command Line Command:
+
 •	go to the project folder and run the below command: 
 o	mvn clean install 
 
 #Eclipse:
+
 •	Click on "Project > Run As > Maven test"
 
 
@@ -69,3 +71,6 @@ Description About Flow of the Automated Test Scenario:
 5.	All > New Account > Edit > Delete.
 6.	Salary Account > Transaction > All .
 7.	Assets > Favorite Icon > Recent tab > Favorites Tab (To validate the functionality).
+
+
+PS: I have used id , search webelement on basis of attribute & using PointOption > TouchAction using co-ordinates wherever required.Also I have used all Wait command types including implicit wait, Explicit wait & Thread.sleep to showcase that if required I can work with any of these techniques.
