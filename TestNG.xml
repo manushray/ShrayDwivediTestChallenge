@@ -5,7 +5,7 @@
 		
 		
 		<classes>
-		  	<!-- class name="shrayTestChallenge.gnucashAndriod.AppTest" /-->
+		  	
 		  	<class name="shrayTestChallenge.gnucashAndriod.AppDashboardTest" />
 		  	
 		</classes>
